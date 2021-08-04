@@ -1,0 +1,4 @@
+ deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ridtlplkisx2/public_html
+    - /bin/cp -R /home/ridtlplkisx2/repositories/progeny $DEPLOYPATH
