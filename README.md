@@ -1,2 +1,0 @@
-# progeny
-VM Progeny
